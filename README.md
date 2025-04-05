@@ -25,8 +25,17 @@
 - Interface bonita com cores (Termux e Kali Linux)
 - Totalmente open-source e customizável
 
----
+⚠️ Aviso Legal:
 
-### ☠️ Uso:
-```bash
-bash shark.sh
+Este script é apenas para fins educacionais.
+O uso indevido é de responsabilidade do usuário.
+
+👑 Desenvolvido por:
+
+Jhon (@Dragonmodder7)
+
+Família Spamer Techno 🇯🇲
+
+Blog: jhonspammer.blogspot.com
+
+
