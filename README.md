@@ -31,7 +31,7 @@ pip install requests colorama
 git clone https://github.com/Dragonmodder7/shark.git
 cd shark
 chmod +x shark.sh
-bash shark.sh
+python shark.py
 
 
 ---
@@ -44,12 +44,12 @@ pip3 install requests colorama
 git clone https://github.com/Dragonmodder7/shark.git
 cd shark
 chmod +x shark.sh
-./shark.sh
+python shark.py
 
 
 ## ✅ Comando único:
 
-git clone https://github.com/Dragonmodder7/shark && cd shark && chmod +x shark.sh && bash shark.sh
+git clone https://github.com/Dragonmodder7/shark && cd shark && chmod +x shark.py && python shark.py
 
 #### ⚠️ Aviso Legal:
 
