@@ -25,7 +25,6 @@
 
 ### ✅ Termux (Android)
 
-```bash
 pkg update && pkg upgrade -y
 pkg install git python -y
 pip install requests colorama
@@ -48,22 +47,22 @@ chmod +x shark.sh
 ./shark.sh
 
 
----
-
 ✅ Comando único:
 
 git clone https://github.com/Dragonmodder7/shark && cd shark && chmod +x shark.sh && bash shark.sh
 
-⚠️ Aviso Legal:
+## ⚠️ Aviso Legal:
 
-O uso indevido é de responsabilidade do usuário não do dev!.
+O uso indevido é do usuário não do dev!.
 
-👑 Desenvolvido por:
+## 👑 Desenvolvido por:
 
 Jhon (@Dragonmodder7)
 
+## 🇯🇲 Org hacker:
 Família Spamer Techno 🇯🇲
 
-Blog: jhonspammer.blogspot.com
+## 🦅 Blog:
+jhonspammer.blogspot.com
 
 
