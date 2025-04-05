@@ -23,7 +23,7 @@
 
 ## 🚀 Instalação Automática
 
-### ✅ Termux (Android)
+## ✅ Termux (Android)
 
 pkg update && pkg upgrade -y
 pkg install git python -y
@@ -36,7 +36,7 @@ bash shark.sh
 
 ---
 
-✅ Kali Linux (PC)
+## ✅ Kali Linux (PC)
 
 sudo apt update && sudo apt upgrade -y
 sudo apt install git python3 python3-pip -y
@@ -47,22 +47,22 @@ chmod +x shark.sh
 ./shark.sh
 
 
-✅ Comando único:
+## ✅ Comando único:
 
 git clone https://github.com/Dragonmodder7/shark && cd shark && chmod +x shark.sh && bash shark.sh
 
-## ⚠️ Aviso Legal:
+### ⚠️ Aviso Legal:
 
 O uso indevido é do usuário não do dev!.
 
-## 👑 Desenvolvido por:
+### 👑 Desenvolvido por:
 
 Jhon (@Dragonmodder7)
 
-## 🇯🇲 Org hacker:
+### 🇯🇲 Org hacker:
 Família Spamer Techno 🇯🇲
 
-## 🦅 Blog:
+### 🦅 Blog:
 jhonspammer.blogspot.com
 
 
