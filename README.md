@@ -21,10 +21,42 @@
 - Interface bonita com cores (Termux e Kali Linux)
 - Totalmente open-source e customizável
 
+## 🚀 Instalação Automática
+
+### ✅ Termux (Android)
+
+```bash
+pkg update && pkg upgrade -y
+pkg install git python -y
+pip install requests colorama
+git clone https://github.com/Dragonmodder7/shark.git
+cd shark
+chmod +x shark.sh
+bash shark.sh
+
+
+---
+
+✅ Kali Linux (PC)
+
+sudo apt update && sudo apt upgrade -y
+sudo apt install git python3 python3-pip -y
+pip3 install requests colorama
+git clone https://github.com/Dragonmodder7/shark.git
+cd shark
+chmod +x shark.sh
+./shark.sh
+
+
+---
+
+✅ Comando único:
+
+git clone https://github.com/Dragonmodder7/shark && cd shark && chmod +x shark.sh && bash shark.sh
+
 ⚠️ Aviso Legal:
 
-Este script é apenas para fins educacionais.
-O uso indevido é de responsabilidade do usuário.
+O uso indevido é de responsabilidade do usuário não do dev!.
 
 👑 Desenvolvido por:
 
