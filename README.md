@@ -51,18 +51,18 @@ chmod +x shark.sh
 
 git clone https://github.com/Dragonmodder7/shark && cd shark && chmod +x shark.sh && bash shark.sh
 
-### ⚠️ Aviso Legal:
+#### ⚠️ Aviso Legal:
 
 O uso indevido é do usuário não do dev!.
 
-### 👑 Desenvolvido por:
+#### 👑 Desenvolvido por:
 
 Jhon (@Dragonmodder7)
 
-### 🇯🇲 Org hacker:
+#### 🇯🇲 Org hacker:
 Família Spamer Techno 🇯🇲
 
-### 🦅 Blog:
+#### 🦅 Blog:
 jhonspammer.blogspot.com
 
 
