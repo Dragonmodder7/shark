@@ -8,11 +8,7 @@
   <img src="https://img.shields.io/badge/Licença-MIT-blue?style=flat-square" />
 </p>
 
----
-
-### ░█▀█░█▀█░█▀▄░█▀▀░█▀▀  
-### ░█▀▀░█▀█░█▀▄░█▀▀░▀▀█  
-### ░▀░░░▀░▀░▀░▀░▀▀▀░▀▀▀
+---▀
 
 > Ferramenta de envio massivo de e-mails com remetente temporário  
 > Criada para fins educacionais, testes de spam e pentest.
