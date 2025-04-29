@@ -1,5 +1,5 @@
 <h1 align="center">
-  🦈 SHARK - Email Spammer Tool 🦈  
+  SHARK - Email Spammer Tool  
 </h1>
 
 <p align="center">
@@ -10,20 +10,15 @@
 
 ---▀
 
-> Ferramenta de envio massivo de e-mails com remetente temporário  
+> Ferramenta de envio massivo de e-mails com remetente temporária  
 > Criada para fins educacionais, testes de spam e pentest.
 
 ---
 
-### ⚙️ Funcionalidades:
-- Envio múltiplo de e-mails com remetente fake (1secmail)
-- Integração SMTP (Gmail/App Password)
-- Interface bonita com cores (Termux e Kali Linux)
-- Totalmente open-source e customizável
+### Ferramenta para enviar spam com e-mail fake
 
-## 🚀 Instalação Automática
-
-## ✅ Termux (Android)
+### Instalação
+Termux 
 
 pkg update && pkg upgrade -y
 pkg install git python -y
@@ -34,9 +29,7 @@ chmod +x shark.sh
 python shark.py
 
 
----
-
-## ✅ Kali Linux (PC)
+Kali Linux 
 
 sudo apt update && sudo apt upgrade -y
 sudo apt install git python3 python3-pip -y
@@ -47,22 +40,8 @@ chmod +x shark.sh
 python shark.py
 
 
-## ✅ Comando único:
+Comando único:
 
 git clone https://github.com/Dragonmodder7/shark && cd shark && chmod +x shark.py && python shark.py
-
-#### ⚠️ Aviso Legal:
-
-O uso indevido é do usuário não do dev!.
-
-#### 👑 Desenvolvido por:
-
-Jhon (@Dragonmodder7)
-
-#### 🇯🇲 Org hacker:
-Família Spamer Techno 🇯🇲
-
-#### 🦅 Blog:
-jhonspammer.blogspot.com
 
 
