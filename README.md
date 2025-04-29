@@ -8,12 +8,9 @@
   <img src="https://img.shields.io/badge/Licença-MIT-blue?style=flat-square" />
 </p>
 
----▀
 
-> Ferramenta de envio massivo de e-mails com remetente temporária  
-> Criada para fins educacionais, testes de spam e pentest.
+> Criado por Jhon
 
----
 
 ### Ferramenta para enviar spam com e-mail fake
 
