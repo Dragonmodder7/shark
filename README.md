@@ -1,12 +1,5 @@
-<h1 align="center">
-  SHARK - Email Spammer Tool  
-</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Dragonmodder7-Família%20Spamer-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Ativo-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Licença-MIT-blue?style=flat-square" />
-</p>
+  SHARK - Email Spammer Tool  
 
 
 > Criado por Jhon
