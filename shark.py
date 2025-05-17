@@ -17,7 +17,7 @@ def banner():
 ██████╔╝██║░░██║██║░░██║██║░░██║██║░╚██╗
 ╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝
 
-""" + Fore.CYAN + "🦈 SHARK SPAMMER TOOL\n📱By Dragonmodder7 (Vicente)\n🐲 Família Spamer Techno 🇯🇲\n")
+""" + Fore.CYAN + "🦈 SHARK SPAMMER TOOL\n📱By Jhon Lamderberguer\n🐲 Família Flodder Techno 🏴󠁧󠁢󠁷󠁬󠁳󠁿\n")
 
 def gerar_email_temporario():
     nome = f"shark{int(time.time())}"
