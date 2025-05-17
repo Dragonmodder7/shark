@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import os
 import time
 import smtplib
@@ -16,8 +17,7 @@ def banner():
 ░╚═══██╗██╔══██║██╔══██║██╔══██╗██╔═██╗░
 ██████╔╝██║░░██║██║░░██║██║░░██║██║░╚██╗
 ╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝
-
-""" + Fore.CYAN + "🦈 SHARK SPAMMER TOOL\n📱By Jhon Lamderberguer\n🐲 Família Flodder Techno 🏴󠁧󠁢󠁷󠁬󠁳󠁿\n")
+""" + Fore.CYAN + "🦈 SHARK SPAMMER TOOL\n📱By Jhon Lamderberguer\n🐲 Família Flodder Techno 🌐\n")
 
 def gerar_email_temporario():
     nome = f"shark{int(time.time())}"
